@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Flutter/Dart
+**/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+*.lock
+pubspec.lock
+
+# Mobile app
+krishna_ai_app/ios/Pods/
+krishna_ai_app/ios/.symlinks/
+krishna_ai_app/ios/Flutter/App.framework
+krishna_ai_app/ios/Flutter/Flutter.framework
+krishna_ai_app/ios/Flutter/Generated.xcconfig
+krishna_ai_app/ios/Flutter/app.flx
+krishna_ai_app/ios/Flutter/app.zip
+krishna_ai_app/ios/Flutter/flutter_assets/
+krishna_ai_app/android/.gradle/
+krishna_ai_app/android/app/build/
+krishna_ai_app/android/build/ 

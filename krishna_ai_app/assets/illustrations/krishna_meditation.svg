@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 180C144.183 180 180 144.183 180 100C180 55.8172 144.183 20 100 20C55.8172 20 20 55.8172 20 100C20 144.183 55.8172 180 100 180Z" fill="#7B1FA2" fill-opacity="0.1"/>
+  
+  <!-- Krishna's Head -->
+  <circle cx="100" cy="70" r="20" fill="#1A73E8"/>
+  <path d="M85 70C85 59.5066 91.7157 51 100 51C108.284 51 115 59.5066 115 70" stroke="#00897B" stroke-width="2"/>
+  <circle cx="93" cy="65" r="2" fill="white"/>
+  <circle cx="107" cy="65" r="2" fill="white"/>
+  <path d="M96 73C98 75 102 75 104 73" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  
+  <!-- Peacock Feather -->
+  <path d="M116 58C116 58 123 45 130 48C137 51 132 62 123 65" stroke="#00897B" stroke-width="2" stroke-linecap="round"/>
+  <path d="M130 48C130 48 135 42 140 45C145 48 138 54 130 48Z" fill="#FFC107"/>
+  <circle cx="137" cy="46" r="2" fill="#00897B"/>
+  
+  <!-- Lotus Position -->
+  <path d="M70 120C80 110 90 105 100 105C110 105 120 110 130 120" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M100 105V90" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M70 120C70 120 80 135 100 135C120 135 130 120 130 120" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Hands in meditation -->
+  <path d="M85 100C85 100 90 90 95 95C100 100 95 105 90 105C85 105 80 95 85 100Z" fill="#1A73E8"/>
+  <path d="M115 100C115 100 110 90 105 95C100 100 105 105 110 105C115 105 120 95 115 100Z" fill="#1A73E8"/>
+  
+  <!-- Om Symbol -->
+  <path d="M100 150C100 150 95 145 95 140C95 135 100 130 105 135C110 140 105 150 100 150Z" stroke="#FFC107" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M105 135C105 135 110 130 115 135C120 140 115 150 105 150" stroke="#FFC107" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M100 150L100 155" stroke="#FFC107" stroke-width="1.5" stroke-linecap="round"/>
+</svg> 

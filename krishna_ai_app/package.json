@@ -1,0 +1,23 @@
+{
+  "name": "krishna_ai_app",
+  "version": "1.0.0",
+  "description": "This is a Flutter implementation of KrishnaAI that works across web, iOS, and Android platforms.",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}

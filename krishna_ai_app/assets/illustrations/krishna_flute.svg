@@ -1,0 +1,35 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M100 180C144.183 180 180 144.183 180 100C180 55.8172 144.183 20 100 20C55.8172 20 20 55.8172 20 100C20 144.183 55.8172 180 100 180Z" fill="#1A73E8" fill-opacity="0.1"/>
+  
+  <!-- Krishna's Head -->
+  <circle cx="100" cy="70" r="20" fill="#1A73E8"/>
+  <path d="M80 70C80 59.5066 88.5066 51 99 51C109.493 51 118 59.5066 118 70" stroke="#00897B" stroke-width="2"/>
+  <circle cx="93" cy="65" r="2" fill="white"/>
+  <circle cx="107" cy="65" r="2" fill="white"/>
+  <path d="M96 73C98 75 102 75 104 73" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M118 63C118 63 125 55 130 60C135 65 128 73 118 73" fill="#00897B"/>
+  
+  <!-- Peacock Feather -->
+  <path d="M118 50C118 50 125 40 130 43C135 46 130 55 120 60" stroke="#00897B" stroke-width="2" stroke-linecap="round"/>
+  <path d="M130 43C130 43 132 38 135 41C138 44 132 49 130 43Z" fill="#FFC107"/>
+  <circle cx="133" cy="41" r="2" fill="#00897B"/>
+  
+  <!-- Krishna's Body -->
+  <path d="M80 70C80 70 75 90 85 110C95 130 90 150 90 150" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M118 70C118 70 125 90 115 110C105 130 110 150 110 150" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M88 90C88 90 100 100 112 90" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M85 110C85 110 100 120 115 110" stroke="#1A73E8" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Flute -->
+  <rect x="65" y="90" width="70" height="4" rx="2" fill="#FFC107"/>
+  <circle cx="75" cy="92" r="1.5" fill="#1A73E8"/>
+  <circle cx="85" cy="92" r="1.5" fill="#1A73E8"/>
+  <circle cx="95" cy="92" r="1.5" fill="#1A73E8"/>
+  <circle cx="105" cy="92" r="1.5" fill="#1A73E8"/>
+  <circle cx="115" cy="92" r="1.5" fill="#1A73E8"/>
+  <circle cx="125" cy="92" r="1.5" fill="#1A73E8"/>
+  
+  <!-- Hands -->
+  <path d="M75 100C75 100 70 90 65 95C60 100 70 105 75 100Z" fill="#1A73E8"/>
+  <path d="M125 100C125 100 130 90 135 95C140 100 130 105 125 100Z" fill="#1A73E8"/>
+</svg> 

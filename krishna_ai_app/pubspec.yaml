@@ -1,0 +1,65 @@
+name: krishna_ai_app
+description: KrishnaAI - Your Spiritual Guide
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  http: ^1.1.0
+  shared_preferences: ^2.2.1
+  url_launcher: ^6.1.14
+  intl: ^0.18.1
+  google_fonts: ^5.1.0
+  flutter_svg: ^2.0.7
+  shimmer: ^3.0.0
+  lottie: ^2.6.0
+  flutter_animate: ^4.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  adaptive_icon_background: "#1A73E8"
+  adaptive_icon_foreground: "assets/icons/app_icon_foreground.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/images/krishna_avatar.png
+    - assets/illustrations/
+    - assets/icons/
+    - assets/patterns/
+    - assets/
+    - assets/fonts/
+  
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: fonts/Poppins-SemiBold.ttf
+          weight: 600
+    - family: Rozha
+      fonts:
+        - asset: fonts/RozhaOne-Regular.ttf

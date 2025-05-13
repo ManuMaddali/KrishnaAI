@@ -1,0 +1,14 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flute Silhouette -->
+  <path d="M220 512C220 469.339 254.339 435 297 435H727C769.661 435 804 469.339 804 512C804 554.661 769.661 589 727 589H297C254.339 589 220 554.661 220 512Z" fill="#FFC107"/>
+  <path d="M825 512C825 541.271 801.271 565 772 565C742.729 565 719 541.271 719 512C719 482.729 742.729 459 772 459C801.271 459 825 482.729 825 512Z" fill="#FFC107"/>
+  <circle cx="359" cy="512" r="30" fill="white"/>
+  <circle cx="451" cy="512" r="30" fill="white"/>
+  <circle cx="543" cy="512" r="30" fill="white"/>
+  <circle cx="635" cy="512" r="30" fill="white"/>
+  
+  <!-- Peacock Feather -->
+  <path d="M772 380C772 380 810 320 850 340C890 360 860 440 772 435" stroke="#00897B" stroke-width="20" stroke-linecap="round"/>
+  <path d="M850 340C850 340 880 300 920 330C960 360 890 400 850 340Z" fill="#00897B"/>
+  <circle cx="900" cy="330" r="15" fill="#FFC107"/>
+</svg> 

@@ -1,0 +1,24 @@
+{
+  "name": "KrishnaAI - Spiritual Guide",
+  "short_name": "KrishnaAI",
+  "description": "A spiritual guide powered by artificial intelligence to help with life's questions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF7E6",
+  "theme_color": "#FF9933",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/static/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+} 
